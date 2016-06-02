@@ -61,5 +61,4 @@ public class CityFacade extends AbstractFacade<City> {
     public CityFacade() {
         super(City.class);
     }
-    
 }
