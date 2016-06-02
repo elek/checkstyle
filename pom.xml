@@ -63,9 +63,9 @@
 						</module>
 					</checkstyleRules>
 					<encoding>UTF-8</encoding>
-					<consoleOutput>${checkstyle.output}</consoleOutput>
-					<failOnViolation>true</failOnViolation>
-					<failsOnError>true</failsOnError>
+					<consoleOutput>false</consoleOutput>
+					<failOnViolation>false</failOnViolation>
+					<failsOnError>false</failsOnError>
 				</configuration>
 			</plugin>
 		</plugins>

@@ -50,6 +50,11 @@ import org.sample.entities.City;
 
 @Stateless
 public class CityFacade extends AbstractFacade<City> {
+
+
+    public static final String sss = "Hello World!";
+
+
     @PersistenceContext
     private EntityManager em;
 
